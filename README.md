@@ -8,16 +8,16 @@ This repository contains the supplementary file for article "Review of Synthetic
 ## Taxonomy of the Detection Methods:
 
 ### 1. Traditional Methods
-"A.	Template-Based Methods"
-"B.	Model-Based Methods"
-"C.	CFAR-Based Methods"
+#### A.	Template-Based Methods
+#### B.	Model-Based Methods
+#### C.	CFAR-Based Methods
 - One-parameter CFAR
 - Two-parameter CFAR
 - Clutter Modeling and Applications
-"D.	Machine Learning Methods"
+#### D.	Machine Learning Methods
 
 ### 2. Modern Deep Learning Methods
-"A.	Architecture-Based Classification"
+#### A.	Architecture-Based Classification
 - Non-CNN Deep Models
 - CNN-Based Methods
     - Standard CNNs (Borrowed from Computer Vision)
@@ -26,8 +26,7 @@ This repository contains the supplementary file for article "Review of Synthetic
     - Attention-based CNNs
     - Capsule Networks
 - Hybrid Architectures
-    - GAN-guided hybrid networks
-"B.	Learning Paradigm Classification"
+#### B.	Learning Paradigm Classification
 - Supervised Learning
 - Semi-supervised Learning
 - Unsupervised Learning
@@ -46,7 +45,7 @@ This repository contains the supplementary file for article "Review of Synthetic
     - SAR-optical fusion
     - Complex data
     - Multi-resolution SAR
-C.	Operational and Task-Specific Methods
+#### C.	Operational and Task-Specific Methods
 - Real-time Detection Systems
 - Robust Recognition Systems
 - Small-Target Detection
