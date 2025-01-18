@@ -1,6 +1,10 @@
 # SAR-ATR-methods
 This repository contains the supplementary file for article "Review of Synthetic Aperture Radar Automatic Target Recognition: A Dual Perspective on Classical and Deep Learning Techniques"
 
+    ├── LICENSE                 
+    ├── README.md
+    └── SAR_ATR_methods_Table.csv       # paper review database
+
 ## DATASETS IN SAR OBJECT RECOGNITION
 
 | Dataset                      	| Year 	| Sensor/Source                                                                                	| # Img   	| Img size               	| Res [m]                    	| Band                   	| Pol                	| Target                             	|
