@@ -5,6 +5,53 @@ This repository contains the supplementary file for article "Review of Synthetic
     ├── README.md
     └── SAR_ATR_methods_Table.csv       # paper review database
 
+## Taxonomy of the Detection Methods:
+
+### 1. Traditional Methods
+"A.	Template-Based Methods"
+"B.	Model-Based Methods"
+"C.	CFAR-Based Methods"
+- One-parameter CFAR
+- Two-parameter CFAR
+- Clutter Modeling and Applications
+"D.	Machine Learning Methods"
+
+### 2. Modern Deep Learning Methods
+"A.	Architecture-Based Classification"
+- Non-CNN Deep Models
+- CNN-Based Methods
+    - Standard CNNs (Borrowed from Computer Vision)
+    - Shallow and deep CNNs
+    - Two-Stage and One-Stage Detectors
+    - Attention-based CNNs
+    - Capsule Networks
+- Hybrid Architectures
+    - GAN-guided hybrid networks
+"B.	Learning Paradigm Classification"
+- Supervised Learning
+- Semi-supervised Learning
+- Unsupervised Learning
+- Few-shot Learning
+- Transfer Learning
+- Adversarial Attack
+- Data Augmentation Strategies
+    - Classical data augmentation
+    - Simulation-based generation
+    - GAN-based new samples
+- Scattering-Based Feature Enhancement
+    - Attributed Scattering Center Based
+    - Scattering topology
+- Multi-modal Data Processing
+    - Polarimetric SAR
+    - SAR-optical fusion
+    - Complex data
+    - Multi-resolution SAR
+C.	Operational and Task-Specific Methods
+- Real-time Detection Systems
+- Robust Recognition Systems
+- Small-Target Detection
+- Multitask
+
 ## DATASETS IN SAR OBJECT RECOGNITION
 
 | Dataset                      	| Year 	| Sensor/Source                                                                                	| # Img   	| Img size               	| Res [m]                    	| Band                   	| Pol                	| Target                             	|
